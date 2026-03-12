@@ -101,7 +101,7 @@ Quality Analyst – Inventco Infotech (Jun 2024 – Dec 2024)
 
 Quality Analyst – IDCLE Tech LLP (Sep 2022 – May 2024)
 
-Software Developer Trainee – Dotsquares Technologies
+Software Developer Trainee – Dotsquares Technologies (July 2021 - Sep 2022)
 
 ---
 
