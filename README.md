@@ -5,7 +5,29 @@ Quality Analyst with 3+ years of experience in Manual Testing, Automation Testin
 ---
 
 # Skills
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- User Acceptance Testing (UAT)
+- API Testing
+- UI Testing
+- Cross-Browser Testing
+- Mobile Application Testing
+- Smoke & Sanity Testing
 
+# Test Management & QA Processes
+- Test Planning
+- Test Case Design
+- Test Execution
+- Defect Tracking
+- Bug Reporting
+- Defect Life Cycle Management
+- Requirement Analysis
+- SDLC (Software Development Life Cycle)
+- STLC (Software Testing Life Cycle)
+
+  
 # Testing
 - Manual Testing
 - Functional Testing
@@ -14,17 +36,26 @@ Quality Analyst with 3+ years of experience in Manual Testing, Automation Testin
 - User Acceptance Testing
 - API Testing
 
-# Tools
-- JIRA
-- Playwright
-- Postman
+# Tools & Technologies
+- JIRA (Bug Tracking & Test Management)
+- Playwright (Automation Testing)
+- Postman (API Testing)
+- Git & GitHub (Version Control)
 - Chrome DevTools
-- Git
+- Android Emulator (Mobile Testing)
 
 # Methodologies
-- Agile
-- SDLC
-- STLC
+- Agile Scrum
+- Waterfall
+- Sprint Testing
+- Continuous Integration Testing
+
+# Soft Skills
+- Team Collaboration
+- Client Communication
+- Problem Solving
+- Analytical Thinking
+- Documentation Skills
 
 ---
 
