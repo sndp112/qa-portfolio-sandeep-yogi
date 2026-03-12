@@ -1,6 +1,6 @@
 # Sandeep Yogi – QA Portfolio
 
-Quality Analyst with 3+ years of experience in Manual Testing, Automation Testing, and Software Quality Assurance. Experienced in executing test strategies, defect tracking, and ensuring product quality through comprehensive testing methodologies.
+Quality Analyst with 4+ years of experience in Manual Testing, Automation Testing, and Software Quality Assurance. Experienced in executing test strategies, defect tracking, and ensuring product quality through comprehensive testing methodologies.
 
 ---
 
